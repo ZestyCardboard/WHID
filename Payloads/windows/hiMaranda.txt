@@ -1,0 +1,4 @@
+Press:131+114
+PrintLine:notepad.exe
+Delay
+PrintLine: hello yes I am criminal
